@@ -65,8 +65,8 @@ TraitTitans/
 ├── index.html             # Main game interface
 ├── main.js                # Core game logic and UI
 ├── styles.css             # Responsive styling
-├── README.md              # This file
-└── replit.md              # Development documentation
+└── README.md              # This file
+ 
 ```
 
 ### Key Components
