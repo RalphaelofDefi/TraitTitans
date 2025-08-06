@@ -191,8 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or feedback:
 - Create an issue on GitHub
-- Join our community discussions
-- Check the documentation in `replit.md`
+- Dm RalphaelofDefi on telegram
 
 ---
 
